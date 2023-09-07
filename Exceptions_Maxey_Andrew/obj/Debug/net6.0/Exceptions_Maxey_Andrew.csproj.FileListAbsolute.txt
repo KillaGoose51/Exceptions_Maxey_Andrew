@@ -1,0 +1,14 @@
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\obj\Debug\net6.0\Exceptions_Maxey_Andrew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\obj\Debug\net6.0\Exceptions_Maxey_Andrew.AssemblyInfoInputs.cache
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\obj\Debug\net6.0\Exceptions_Maxey_Andrew.AssemblyInfo.cs
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\obj\Debug\net6.0\Exceptions_Maxey_Andrew.csproj.CoreCompileInputs.cache
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\bin\Debug\net6.0\Exceptions_Maxey_Andrew.exe
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\bin\Debug\net6.0\Exceptions_Maxey_Andrew.deps.json
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\bin\Debug\net6.0\Exceptions_Maxey_Andrew.runtimeconfig.json
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\bin\Debug\net6.0\Exceptions_Maxey_Andrew.dll
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\bin\Debug\net6.0\Exceptions_Maxey_Andrew.pdb
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\obj\Debug\net6.0\Exceptions_Maxey_Andrew.dll
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\obj\Debug\net6.0\refint\Exceptions_Maxey_Andrew.dll
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\obj\Debug\net6.0\Exceptions_Maxey_Andrew.pdb
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\obj\Debug\net6.0\Exceptions_Maxey_Andrew.genruntimeconfig.cache
+C:\Users\AndrewMaxey\source\repos\Exceptions_Maxey_Andrew\Exceptions_Maxey_Andrew\obj\Debug\net6.0\ref\Exceptions_Maxey_Andrew.dll
